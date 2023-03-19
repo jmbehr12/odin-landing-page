@@ -5,11 +5,12 @@
 #nav-bar {
     height: 40px;
     background-color: #1f2937;
-    display: flex;
+   display: flex;
 }
 
 #logo {
-    width: 400px;
+    width: 500px;
+    min-width: 500px;
     font-size: 24px;
     color: #F9FAF8;
     margin-left: 200px;
@@ -19,7 +20,7 @@
 #link-container {
     width: 500px;
     margin-top: 15px;
-    margin-left: 600px;
+    margin-left: 400px;
 }
 
 #link-list {
@@ -65,6 +66,7 @@
 
 #top-div {
     height: 400px;
+    min-height: 400px;
     background-color: #1f2937;
     display: flex;
     justify-content: center;
@@ -73,6 +75,7 @@
 
 #title-div {
     width: 400px;
+    min-width: 400px;
 }
 
 h1 {
