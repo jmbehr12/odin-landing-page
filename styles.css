@@ -19,9 +19,10 @@
 }
 
 #link-container {
-    width: 400px;
+    width: 300px;
     margin-top: 15px;
     margin-left: 400px;
+    padding-right: -400px;
 }
 
 #link-list {
